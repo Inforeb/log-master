@@ -28,7 +28,7 @@ cd log-master
 #### Instalar dependencias
 pip install -r requirements.txt
 
-#### 3. Ejecución
+### 3. Ejecución
 python main.py
 
 ## 📂 Estructura del Repositorio
