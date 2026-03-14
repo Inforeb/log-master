@@ -20,17 +20,18 @@ Asegúrate de tener Python 3.9 o superior instalado.
 
 ### 2. Clonar y Configurar
 
-# Clonar el repositorio
+#### Clonar el repositorio
 git clone [https://github.com/Inforeb/log-master.git](https://github.com/Inforeb/log-master.git)
 
 cd log-master
 
-# Instalar dependencias
+#### Instalar dependencias
 pip install -r requirements.txt
-### 3. Ejecución
 
+#### 3. Ejecución
 python main.py
-📂 Estructura del Repositorio
+
+## 📂 Estructura del Repositorio
 main.py: 
 
 Punto de entrada principal.
