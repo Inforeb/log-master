@@ -32,9 +32,7 @@ pip install -r requirements.txt
 python main.py
 
 ## 📂 Estructura del Repositorio
-main.py: 
-
-Punto de entrada principal.
+main.py: Punto de entrada principal.
 
 log_master/gui.py: Motor de la interfaz gráfica y gestión de eventos.
 
