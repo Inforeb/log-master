@@ -1,5 +1,7 @@
 # 🛡️ LogMaster Pro
 
+![Dashboard de LogMaster Pro](screenshot.png)
+
 **LogMaster Pro** es una solución avanzada de análisis y visualización de logs de eventos de Windows (`.evtx`). Está diseñada para permitir a los analistas de seguridad e ingenieros de sistemas identificar ráfagas de errores (**bursts**) y patrones anómalos en cuestión de segundos.
 
 ---
